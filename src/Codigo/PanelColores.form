@@ -20,70 +20,70 @@
               <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" attributes="0">
-                      <Component id="Rojo2" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color18" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Azul2" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color17" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Amarillo2" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color20" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Negro2" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color19" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Verde2" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color22" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Blanco2" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color21" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Naranja2" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color24" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Rosa2" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color23" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Rojo3" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color26" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Azul3" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color25" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Amarillo3" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color28" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Negro3" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color27" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Verde3" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color30" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Blanco3" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color29" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Naranja3" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color32" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Rosa3" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color31" min="-2" pref="21" max="-2" attributes="0"/>
                   </Group>
                   <Group type="102" attributes="0">
-                      <Component id="Rojo" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color1" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Azul" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color2" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Amarillo" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color4" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Negro" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color3" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Verde" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color6" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Blanco" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color5" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Naranja" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color8" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Rosa" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color7" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Rojo1" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color10" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Azul1" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color9" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Amarillo1" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color12" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Negro1" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color11" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Verde1" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color14" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Blanco1" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color13" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Naranja1" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color16" min="-2" pref="21" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="Rosa1" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Color15" min="-2" pref="21" max="-2" attributes="0"/>
                   </Group>
               </Group>
               <EmptySpace pref="118" max="32767" attributes="0"/>
@@ -95,41 +95,41 @@
           <Group type="102" alignment="0" attributes="0">
               <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="1" attributes="0">
-                  <Component id="Rosa1" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Naranja1" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Blanco1" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Verde1" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Negro1" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Amarillo1" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Azul1" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Rojo1" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Rosa" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Naranja" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Blanco" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Verde" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Negro" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Amarillo" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Azul" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Rojo" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color15" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color16" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color13" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color14" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color11" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color12" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color9" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color10" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color7" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color8" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color5" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color6" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color3" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color4" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color2" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color1" min="-2" pref="21" max="-2" attributes="0"/>
               </Group>
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="1" attributes="0">
-                  <Component id="Rosa2" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Naranja2" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Blanco2" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Verde2" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Negro2" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Amarillo2" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Azul2" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Rojo2" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Rosa3" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Naranja3" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Blanco3" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Verde3" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Negro3" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Amarillo3" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Azul3" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
-                  <Component id="Rojo3" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color23" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color24" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color21" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color22" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color19" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color20" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color17" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color18" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color31" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color32" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color29" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color30" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color27" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color28" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color25" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="Color26" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
               </Group>
               <EmptySpace pref="17" max="32767" attributes="0"/>
           </Group>
@@ -137,7 +137,7 @@
     </DimensionLayout>
   </Layout>
   <SubComponents>
-    <Component class="javax.swing.JLabel" name="Rojo">
+    <Component class="javax.swing.JLabel" name="Color1">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="33" green="33" red="ff" type="rgb"/>
@@ -145,10 +145,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="RojoMousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color1MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Azul">
+    <Component class="javax.swing.JLabel" name="Color2">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="ff" green="33" red="33" type="rgb"/>
@@ -156,10 +156,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="AzulMousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color2MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Negro">
+    <Component class="javax.swing.JLabel" name="Color3">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="0" green="0" red="0" type="rgb"/>
@@ -167,10 +167,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="NegroMousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color3MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Amarillo">
+    <Component class="javax.swing.JLabel" name="Color4">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="0" green="ff" red="ff" type="rgb"/>
@@ -178,10 +178,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="AmarilloMousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color4MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Blanco">
+    <Component class="javax.swing.JLabel" name="Color5">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -189,10 +189,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="BlancoMousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color5MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Verde">
+    <Component class="javax.swing.JLabel" name="Color6">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="0" green="cc" red="33" type="rgb"/>
@@ -200,10 +200,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="VerdeMousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color6MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Rosa">
+    <Component class="javax.swing.JLabel" name="Color7">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="cc" green="0" red="ff" type="rgb"/>
@@ -211,10 +211,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="RosaMousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color7MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Naranja">
+    <Component class="javax.swing.JLabel" name="Color8">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="33" green="99" red="ff" type="rgb"/>
@@ -222,10 +222,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="NaranjaMousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color8MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Azul1">
+    <Component class="javax.swing.JLabel" name="Color9">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="99" green="99" red="99" type="rgb"/>
@@ -233,10 +233,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Azul1MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color9MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Rojo1">
+    <Component class="javax.swing.JLabel" name="Color10">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="ff" green="ff" red="0" type="rgb"/>
@@ -244,10 +244,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Rojo1MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color10MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Negro1">
+    <Component class="javax.swing.JLabel" name="Color11">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="99" green="33" red="0" type="rgb"/>
@@ -255,10 +255,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Negro1MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color11MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Amarillo1">
+    <Component class="javax.swing.JLabel" name="Color12">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="cc" green="99" red="0" type="rgb"/>
@@ -266,10 +266,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Amarillo1MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color12MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Blanco1">
+    <Component class="javax.swing.JLabel" name="Color13">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="66" green="0" red="99" type="rgb"/>
@@ -277,10 +277,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Blanco1MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color13MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Verde1">
+    <Component class="javax.swing.JLabel" name="Color14">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="99" green="0" red="66" type="rgb"/>
@@ -288,10 +288,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Verde1MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color14MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Rosa1">
+    <Component class="javax.swing.JLabel" name="Color15">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="0" green="99" red="99" type="rgb"/>
@@ -299,10 +299,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Rosa1MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color15MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Naranja1">
+    <Component class="javax.swing.JLabel" name="Color16">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="0" green="0" red="99" type="rgb"/>
@@ -310,10 +310,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Naranja1MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color16MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Azul2">
+    <Component class="javax.swing.JLabel" name="Color17">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="66" green="99" red="0" type="rgb"/>
@@ -321,10 +321,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Azul2MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color17MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Rojo2">
+    <Component class="javax.swing.JLabel" name="Color18">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="0" green="33" red="0" type="rgb"/>
@@ -332,10 +332,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Rojo2MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color18MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Negro2">
+    <Component class="javax.swing.JLabel" name="Color19">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="ff" green="66" red="cc" type="rgb"/>
@@ -343,10 +343,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Negro2MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color19MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Amarillo2">
+    <Component class="javax.swing.JLabel" name="Color20">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="ff" green="66" red="99" type="rgb"/>
@@ -354,10 +354,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Amarillo2MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color20MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Blanco2">
+    <Component class="javax.swing.JLabel" name="Color21">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="33" green="cc" red="0" type="rgb"/>
@@ -365,10 +365,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Blanco2MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color21MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Verde2">
+    <Component class="javax.swing.JLabel" name="Color22">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="0" green="0" red="33" type="rgb"/>
@@ -376,10 +376,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Verde2MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color22MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Rosa2">
+    <Component class="javax.swing.JLabel" name="Color23">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="cc" green="ff" red="66" type="rgb"/>
@@ -387,10 +387,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Rosa2MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color23MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Naranja2">
+    <Component class="javax.swing.JLabel" name="Color24">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="66" green="66" red="ff" type="rgb"/>
@@ -398,10 +398,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Naranja2MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color24MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Azul3">
+    <Component class="javax.swing.JLabel" name="Color25">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="ff" green="66" red="33" type="rgb"/>
@@ -409,10 +409,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Azul3MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color25MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Rojo3">
+    <Component class="javax.swing.JLabel" name="Color26">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="33" green="33" red="33" type="rgb"/>
@@ -420,10 +420,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Rojo3MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color26MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Negro3">
+    <Component class="javax.swing.JLabel" name="Color27">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="99" green="99" red="ff" type="rgb"/>
@@ -431,10 +431,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Negro3MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color27MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Amarillo3">
+    <Component class="javax.swing.JLabel" name="Color28">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="0" green="cc" red="cc" type="rgb"/>
@@ -442,10 +442,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Amarillo3MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color28MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Blanco3">
+    <Component class="javax.swing.JLabel" name="Color29">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="99" green="cc" red="0" type="rgb"/>
@@ -453,10 +453,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Blanco3MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color29MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Verde3">
+    <Component class="javax.swing.JLabel" name="Color30">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="0" green="ff" red="99" type="rgb"/>
@@ -464,10 +464,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Verde3MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color30MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Rosa3">
+    <Component class="javax.swing.JLabel" name="Color31">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="0" green="66" red="66" type="rgb"/>
@@ -475,10 +475,10 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Rosa3MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color31MousePressed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JLabel" name="Naranja3">
+    <Component class="javax.swing.JLabel" name="Color32">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="33" green="33" red="ff" type="rgb"/>
@@ -486,7 +486,7 @@
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
       <Events>
-        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Naranja3MousePressed"/>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Color32MousePressed"/>
       </Events>
     </Component>
   </SubComponents>
