@@ -194,7 +194,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Azul2.setBackground(new java.awt.Color(51, 51, 255));
+        Azul2.setBackground(new java.awt.Color(0, 153, 102));
         Azul2.setOpaque(true);
         Azul2.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -202,7 +202,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Rojo2.setBackground(new java.awt.Color(255, 51, 51));
+        Rojo2.setBackground(new java.awt.Color(0, 51, 0));
         Rojo2.setOpaque(true);
         Rojo2.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -210,7 +210,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Negro2.setBackground(new java.awt.Color(0, 0, 0));
+        Negro2.setBackground(new java.awt.Color(204, 102, 255));
         Negro2.setOpaque(true);
         Negro2.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -218,7 +218,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Amarillo2.setBackground(new java.awt.Color(255, 255, 0));
+        Amarillo2.setBackground(new java.awt.Color(153, 102, 255));
         Amarillo2.setOpaque(true);
         Amarillo2.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -226,7 +226,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Blanco2.setBackground(new java.awt.Color(255, 255, 255));
+        Blanco2.setBackground(new java.awt.Color(0, 204, 51));
         Blanco2.setOpaque(true);
         Blanco2.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -234,7 +234,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Verde2.setBackground(new java.awt.Color(51, 204, 0));
+        Verde2.setBackground(new java.awt.Color(51, 0, 0));
         Verde2.setOpaque(true);
         Verde2.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -242,7 +242,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Rosa2.setBackground(new java.awt.Color(255, 0, 204));
+        Rosa2.setBackground(new java.awt.Color(102, 255, 204));
         Rosa2.setOpaque(true);
         Rosa2.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -250,7 +250,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Naranja2.setBackground(new java.awt.Color(255, 153, 51));
+        Naranja2.setBackground(new java.awt.Color(255, 102, 102));
         Naranja2.setOpaque(true);
         Naranja2.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -258,7 +258,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Azul3.setBackground(new java.awt.Color(51, 51, 255));
+        Azul3.setBackground(new java.awt.Color(51, 102, 255));
         Azul3.setOpaque(true);
         Azul3.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -266,7 +266,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Rojo3.setBackground(new java.awt.Color(255, 51, 51));
+        Rojo3.setBackground(new java.awt.Color(51, 51, 51));
         Rojo3.setOpaque(true);
         Rojo3.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -274,7 +274,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Negro3.setBackground(new java.awt.Color(0, 0, 0));
+        Negro3.setBackground(new java.awt.Color(255, 153, 153));
         Negro3.setOpaque(true);
         Negro3.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -282,7 +282,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Amarillo3.setBackground(new java.awt.Color(255, 255, 0));
+        Amarillo3.setBackground(new java.awt.Color(204, 204, 0));
         Amarillo3.setOpaque(true);
         Amarillo3.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -290,7 +290,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Blanco3.setBackground(new java.awt.Color(255, 255, 255));
+        Blanco3.setBackground(new java.awt.Color(0, 204, 153));
         Blanco3.setOpaque(true);
         Blanco3.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -298,7 +298,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Verde3.setBackground(new java.awt.Color(51, 204, 0));
+        Verde3.setBackground(new java.awt.Color(153, 255, 0));
         Verde3.setOpaque(true);
         Verde3.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -306,7 +306,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Rosa3.setBackground(new java.awt.Color(255, 0, 204));
+        Rosa3.setBackground(new java.awt.Color(102, 102, 0));
         Rosa3.setOpaque(true);
         Rosa3.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -314,7 +314,7 @@ public class PanelColores extends javax.swing.JPanel {
             }
         });
 
-        Naranja3.setBackground(new java.awt.Color(255, 153, 51));
+        Naranja3.setBackground(new java.awt.Color(255, 51, 51));
         Naranja3.setOpaque(true);
         Naranja3.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -494,98 +494,170 @@ public class PanelColores extends javax.swing.JPanel {
 
     private void Azul1MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Azul1MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Azul1MousePressed
 
     private void Rojo1MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Rojo1MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Rojo1MousePressed
 
     private void Negro1MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Negro1MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Negro1MousePressed
 
     private void Amarillo1MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Amarillo1MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Amarillo1MousePressed
 
     private void Blanco1MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Blanco1MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Blanco1MousePressed
 
     private void Verde1MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Verde1MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Verde1MousePressed
 
     private void Rosa1MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Rosa1MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Rosa1MousePressed
 
     private void Naranja1MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Naranja1MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Naranja1MousePressed
 
     private void Azul2MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Azul2MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Azul2MousePressed
 
     private void Rojo2MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Rojo2MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Rojo2MousePressed
 
     private void Negro2MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Negro2MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Negro2MousePressed
 
     private void Amarillo2MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Amarillo2MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Amarillo2MousePressed
 
     private void Blanco2MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Blanco2MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Blanco2MousePressed
 
     private void Verde2MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Verde2MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Verde2MousePressed
 
     private void Rosa2MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Rosa2MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Rosa2MousePressed
 
     private void Naranja2MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Naranja2MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Naranja2MousePressed
 
     private void Azul3MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Azul3MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Azul3MousePressed
 
     private void Rojo3MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Rojo3MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Rojo3MousePressed
 
     private void Negro3MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Negro3MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Negro3MousePressed
 
     private void Amarillo3MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Amarillo3MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Amarillo3MousePressed
 
     private void Blanco3MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Blanco3MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Blanco3MousePressed
 
     private void Verde3MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Verde3MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Verde3MousePressed
 
     private void Rosa3MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Rosa3MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Rosa3MousePressed
 
     private void Naranja3MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Naranja3MousePressed
         // TODO add your handling code here:
+        JLabel s = (JLabel) evt.getSource();
+        colorSeleccionado = s.getBackground();
+
     }//GEN-LAST:event_Naranja3MousePressed
 
 

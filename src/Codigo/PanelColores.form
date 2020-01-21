@@ -316,7 +316,7 @@
     <Component class="javax.swing.JLabel" name="Azul2">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="ff" green="33" red="33" type="rgb"/>
+          <Color blue="66" green="99" red="0" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -327,7 +327,7 @@
     <Component class="javax.swing.JLabel" name="Rojo2">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="33" green="33" red="ff" type="rgb"/>
+          <Color blue="0" green="33" red="0" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -338,7 +338,7 @@
     <Component class="javax.swing.JLabel" name="Negro2">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="0" green="0" red="0" type="rgb"/>
+          <Color blue="ff" green="66" red="cc" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -349,7 +349,7 @@
     <Component class="javax.swing.JLabel" name="Amarillo2">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="0" green="ff" red="ff" type="rgb"/>
+          <Color blue="ff" green="66" red="99" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -360,7 +360,7 @@
     <Component class="javax.swing.JLabel" name="Blanco2">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+          <Color blue="33" green="cc" red="0" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -371,7 +371,7 @@
     <Component class="javax.swing.JLabel" name="Verde2">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="0" green="cc" red="33" type="rgb"/>
+          <Color blue="0" green="0" red="33" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -382,7 +382,7 @@
     <Component class="javax.swing.JLabel" name="Rosa2">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="cc" green="0" red="ff" type="rgb"/>
+          <Color blue="cc" green="ff" red="66" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -393,7 +393,7 @@
     <Component class="javax.swing.JLabel" name="Naranja2">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="33" green="99" red="ff" type="rgb"/>
+          <Color blue="66" green="66" red="ff" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -404,7 +404,7 @@
     <Component class="javax.swing.JLabel" name="Azul3">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="ff" green="33" red="33" type="rgb"/>
+          <Color blue="ff" green="66" red="33" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -415,7 +415,7 @@
     <Component class="javax.swing.JLabel" name="Rojo3">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="33" green="33" red="ff" type="rgb"/>
+          <Color blue="33" green="33" red="33" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -426,7 +426,7 @@
     <Component class="javax.swing.JLabel" name="Negro3">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="0" green="0" red="0" type="rgb"/>
+          <Color blue="99" green="99" red="ff" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -437,7 +437,7 @@
     <Component class="javax.swing.JLabel" name="Amarillo3">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="0" green="ff" red="ff" type="rgb"/>
+          <Color blue="0" green="cc" red="cc" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -448,7 +448,7 @@
     <Component class="javax.swing.JLabel" name="Blanco3">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+          <Color blue="99" green="cc" red="0" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -459,7 +459,7 @@
     <Component class="javax.swing.JLabel" name="Verde3">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="0" green="cc" red="33" type="rgb"/>
+          <Color blue="0" green="ff" red="99" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -470,7 +470,7 @@
     <Component class="javax.swing.JLabel" name="Rosa3">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="cc" green="0" red="ff" type="rgb"/>
+          <Color blue="0" green="66" red="66" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
@@ -481,7 +481,7 @@
     <Component class="javax.swing.JLabel" name="Naranja3">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="33" green="99" red="ff" type="rgb"/>
+          <Color blue="33" green="33" red="ff" type="rgb"/>
         </Property>
         <Property name="opaque" type="boolean" value="true"/>
       </Properties>
