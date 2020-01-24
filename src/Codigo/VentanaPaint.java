@@ -6,9 +6,11 @@
 package Codigo;
 
 import Codigo.formas.Circulo;
+import Codigo.formas.Cuadrado;
 import Codigo.formas.Estrella;
 import Codigo.formas.Forma;
 import Codigo.formas.Pemtagono;
+import Codigo.formas.Triangulo;
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
@@ -21,10 +23,10 @@ import java.awt.image.BufferedImage;
 public class VentanaPaint extends javax.swing.JFrame {
 
     //sirve para poder dibujar en el JPANLE "LIENZO"
-    BufferedImage buffer = null;
-    Graphics2D bufferGraphics, jpanelGraphics = null;
+    BufferedImage buffer, buffer2 = null;
+    Graphics2D bufferGraphics, bufferGraphics2, jpanelGraphics = null;
     Circulo miCirculo = null;
-    Forma miForma = null;
+    Forma miForma = new Forma(-1,-1,1, Color.WHITE, false);//para que la forma no de error  
 
     /**
      * Creates new form VentanaPaint
@@ -37,13 +39,18 @@ public class VentanaPaint extends javax.swing.JFrame {
     private void inicializaBuffers() {
         //Voy a crear una imagen del mismo tamaño que "Lienzo"
         buffer = (BufferedImage) Lienzo.createImage(Lienzo.getWidth(), Lienzo.getHeight());
+        buffer2 = (BufferedImage) Lienzo.createImage(Lienzo.getWidth(), Lienzo.getHeight());
         //creo una imagen modificada
         bufferGraphics = buffer.createGraphics();
+        bufferGraphics2 = buffer2.createGraphics();
         //inicializo el buffer para que se pinte de blanco
         bufferGraphics.setColor(Color.white);
         //creando rectangulo
         bufferGraphics.fillRect(0, 0, Lienzo.getWidth(), Lienzo.getHeight());
-        //enlazamos el Lienzo jPanel cone el JpanelGraphics
+        bufferGraphics2.setColor(Color.white);
+        //creando rectangulo2
+        bufferGraphics2.fillRect(0, 0, Lienzo.getWidth(), Lienzo.getHeight());
+        //enlazamos el Lienzo jPanel cone el JpanelGraphics2
         jpanelGraphics = (Graphics2D) Lienzo.getGraphics();
     }
     //se encarga de dibujar los elementos que puse en la pantalla
@@ -80,6 +87,9 @@ public class VentanaPaint extends javax.swing.JFrame {
         Lienzo.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
                 LienzoMousePressed(evt);
+            }
+            public void mouseReleased(java.awt.event.MouseEvent evt) {
+                LienzoMouseReleased(evt);
             }
         });
 
@@ -124,16 +134,24 @@ public class VentanaPaint extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void LienzoMouseDragged(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_LienzoMouseDragged
+        bufferGraphics.drawImage(buffer2, 0, 0, null);
         switch (herramientas2.formaElegida) {
+
             case 0:
                 //metodo para el raton
-                bufferGraphics.setColor(panelColores2.colorSeleccionado);
-                bufferGraphics.fillRect(evt.getX(), evt.getY(), 4, 4);
+                bufferGraphics2.setColor(panelColores2.colorSeleccionado);
+                bufferGraphics2.fillOval(evt.getX(), evt.getY(), 4, 4);
                 //para repintar la pantalla
                 repaint(0, 0, 1, 1);
                 break;
             case 1:
                 miCirculo.dibujate(bufferGraphics, evt.getX());
+                break;
+            case 3:
+                miForma.dibujate(bufferGraphics, evt.getX(), evt.getY());
+                break;
+            case 4:
+                miForma.dibujate(bufferGraphics, evt.getX(), evt.getY());
                 break;
             case 5:
                 miForma.dibujate(bufferGraphics, evt.getX(), evt.getY());
@@ -153,19 +171,42 @@ public class VentanaPaint extends javax.swing.JFrame {
 
                 break;
             case 1:
-                miCirculo = new Circulo(evt.getX(), evt.getY(), 1, panelColores2.colorSeleccionado, true);
+                miCirculo = new Circulo(evt.getX(), evt.getY(), 1, panelColores2.colorSeleccionado, herramientas2.relleno);
                 miCirculo.dibujate(bufferGraphics, evt.getX());
                 break;
+                  case 3:
+                miForma = new Triangulo(evt.getX(), evt.getY(), 3, panelColores2.colorSeleccionado, herramientas2.relleno);
+                miForma.dibujate(bufferGraphics, evt.getX(), evt.getY());
+                break;
+                 case 4:
+                miForma = new Cuadrado(evt.getX(), evt.getY(), 4, panelColores2.colorSeleccionado, herramientas2.relleno);
+                miForma.dibujate(bufferGraphics, evt.getX(), evt.getY());
+                break;
             case 5:
-                miForma = new Pemtagono(evt.getX(), evt.getY(), 5, panelColores2.colorSeleccionado, false);
+                miForma = new Pemtagono(evt.getX(), evt.getY(), 5, panelColores2.colorSeleccionado, herramientas2.relleno);
                 miForma.dibujate(bufferGraphics, evt.getX(), evt.getY());
                 break;
             case 256:
-                miForma = new Estrella(evt.getX(), evt.getY(), 256, panelColores2.colorSeleccionado, false);
+                miForma = new Estrella(evt.getX(), evt.getY(), 256, panelColores2.colorSeleccionado, herramientas2.relleno);
                 miForma.dibujate(bufferGraphics, evt.getX(), evt.getY());
                 break;
         }
     }//GEN-LAST:event_LienzoMousePressed
+
+    private void LienzoMouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_LienzoMouseReleased
+        // TODO add your handling code here:
+       
+        //si es el circulo lo dibuja sobre el buffer
+        if(herramientas2.formaElegida == 1){
+            
+            miCirculo.dibujate(bufferGraphics2, evt.getX());
+        }
+            else if (herramientas2.formaElegida != 0){
+                     miForma.dibujate(bufferGraphics2, evt.getX(), evt.getY());
+                    
+                    }
+        
+    }//GEN-LAST:event_LienzoMouseReleased
 
     /**
      * @param args the command line arguments
